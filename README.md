@@ -29,4 +29,8 @@ This repository contains the REPOSITORY file required to configure YUM in your R
 
 *rm /root/cloning/ -rvf*
 
-# BOOM!! Your YUM is configured successfully. Check for the output using: *yum repolist*
+9. Now, execute a command and if u see an output, it means YUM is successfully configured in your system
+
+*yum repolist*
+
+# BOOM!! Your YUM is configured successfully. 
